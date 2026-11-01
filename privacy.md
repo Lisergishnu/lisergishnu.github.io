@@ -1,12 +1,6 @@
-layout: page
-title: "About"
-permalink: /privacy
-
-# Privacy Policy – EventMark
-
 ## Introduction
 
-This privacy policy explains how the **EventMark** mobile application (the "App") handles information about its users. The App is developed and published by **\[Developer or company name\]** ("we", "us").
+This privacy policy explains how the **EventMark** mobile application (the "App") handles information about its users. The App is developed and published by **Marco Benzi** ("we", "us").
 
 By downloading or using the App, you agree to the terms described in this policy.
 
@@ -32,8 +26,6 @@ If the App saves any settings or preferences (for example, language or theme), t
 ## Device permissions
 
 The App does not request permissions that give it access to personal information, such as location, contacts, camera or microphone. If a future version needs a permission for a specific feature, it will be used only for that feature on your device, and we will update this policy to explain it.
-
-*\[Nota para ti, bórrala antes de publicar: si tu app sí pide algún permiso, sustituye este párrafo por la lista de permisos y para qué se usa cada uno.\]*
 
 ## Third-party services
 
@@ -65,5 +57,5 @@ Last updated: November 2, 2026.
 
 If you have any questions about this privacy policy, please contact us:
 
-- **Developer:** \[Developer or company name\]
-- **Email:** \[contact email\]
+- **Developer:** Marco Benzi
+- **Email:** support@lisercorp.org
